@@ -1,5 +1,5 @@
 {
-  "name": "passport-google-token",
+  "name": "@ff0000-ad-tech/passport-google-token",
   "version": "0.1.2",
   "description": "Google token authentication strategy for Passport.",
   "author": {
@@ -18,10 +18,21 @@
     "pkginfo": "0.2.x",
     "passport-oauth": "^1.0.0"
   },
-  "engines": { "node": ">= 0.4.0" },
-  "licenses": [ {
-    "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT" 
-  } ],
-  "keywords": ["passport", "google", "auth", "authn", "authentication", "identity"]
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "passport",
+    "google",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ]
 }
