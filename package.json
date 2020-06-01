@@ -1,5 +1,5 @@
 {
-  "name": "@ff0000-ad-tech/passport-google-token",
+  "name": "@ff0000-tech/passport-google-token",
   "version": "0.1.2",
   "description": "Google token authentication strategy for Passport.",
   "author": {
